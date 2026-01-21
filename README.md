@@ -1,2 +1,2 @@
 # auto-text-effect-JS
-auto text effect animation.. in javascript
+auto text effect animation.. in javascript which makes website look perfect...
